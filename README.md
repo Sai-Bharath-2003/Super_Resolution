@@ -1,4 +1,4 @@
-# Super_Resolution
+# Super_Resolution Using SRGAN and ESRGAN
 
 Abstract
 Image Super-Resolution (SR) is a significant 
